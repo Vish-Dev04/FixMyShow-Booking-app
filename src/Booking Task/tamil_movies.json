@@ -1,0 +1,116 @@
+{
+  "tamilMovies": [
+    {
+      "name": "Leo",
+      "genre": "Action, Crime, Thriller",
+      "rating": 4.5,
+      "director": "Lokesh Kanagaraj",
+      "cast": ["Vijay", "Trisha", "Sanjay Dutt", "Arjun"],
+      "poster": "/images/leo.jpg"
+    },
+    {
+      "name": "Jailer",
+      "genre": "Action, Drama",
+      "rating": 4.6,
+      "director": "Nelson Dilipkumar",
+      "cast": ["Rajinikanth", "Ramya Krishnan", "Mohanlal", "Shivarajkumar"],
+      "poster": "/images/jailer.jpg"
+    },
+    {
+      "name": "Captain Miller",
+      "genre": "Action, Period, Adventure",
+      "rating": 4.2,
+      "director": "Arun Matheswaran",
+      "cast": ["Dhanush", "Priyanka Mohan", "Sundeep Kishan"],
+      "poster": "/images/captainmiller.jpg"
+    },
+    {
+      "name": "Ayalaan",
+      "genre": "Sci-Fi, Fantasy",
+      "rating": 3.9,
+      "director": "R. Ravikumar",
+      "cast": ["Sivakarthikeyan", "Rakul Preet Singh"],
+      "poster": "/images/ayalaan.jpg"
+    },
+    {
+      "name": "Maharaja",
+      "genre": "Crime, Thriller",
+      "rating": 4.4,
+      "director": "Nithilan Swaminathan",
+      "cast": ["Vijay Sethupathi", "Anurag Kashyap"],
+      "poster": "/images/maharaja.jpg"
+    },
+    {
+      "name": "Indian 2",
+      "genre": "Action, Political Thriller",
+      "rating": 3.8,
+      "director": "Shankar",
+      "cast": ["Kamal Haasan", "Siddharth", "Rakul Preet Singh"],
+      "poster": "/images/indian2.jpg"
+    },
+    {
+      "name": "Raayan",
+      "genre": "Action, Drama",
+      "rating": 4.1,
+      "director": "Dhanush",
+      "cast": ["Dhanush", "Dushara Vijayan", "Sundeep Kishan"],
+      "poster": "/images/raayan.jpg"
+    },
+    {
+      "name": "Garudan",
+      "genre": "Action, Thriller",
+      "rating": 4.0,
+      "director": "R. S. Durai Senthilkumar",
+      "cast": ["Soori", "Unni Mukundan", "Sasikumar"],
+      "poster": "/images/garudan.jpg"
+    },
+    {
+      "name": "Lover",
+      "genre": "Romance, Drama",
+      "rating": 4.3,
+      "director": "Prabhuram Vyas",
+      "cast": ["Manikandan", "Sri Gouri Priya"],
+      "poster": "/images/lover.jpg"
+    },
+    {
+      "name": "Blue Star",
+      "genre": "Sports, Drama",
+      "rating": 4.1,
+      "director": "S. Jayakumar",
+      "cast": ["Ashok Selvan", "Shanthanu Bhagyaraj"],
+      "poster": "/images/bluestar.jpg"
+    },
+    {
+      "name": "Parking",
+      "genre": "Drama, Thriller",
+      "rating": 4.2,
+      "director": "Ramkumar Balakrishnan",
+      "cast": ["Harish Kalyan", "M. S. Bhaskar"],
+      "poster": "/images/parking.jpg"
+    },
+    {
+      "name": "Japan",
+      "genre": "Heist, Comedy",
+      "rating": 3.6,
+      "director": "Raju Murugan",
+      "cast": ["Karthi", "Anu Emmanuel"],
+      "poster": "/images/japan.jpg"
+    },
+    {
+      "name": "Chitha",
+      "genre": "Drama, Emotional",
+      "rating": 4.7,
+      "director": "S. U. Arun Kumar",
+      "cast": ["Siddharth", "Nimisha Sajayan"],
+      "poster": "/images/chitha.jpg"
+    },
+    {
+      "name": "Viduthalai Part 2",
+      "genre": "Political, Drama",
+      "rating": 4.5,
+      "director": "Vetrimaaran",
+      "cast": ["Soori", "Vijay Sethupathi"],
+      "poster": "/images/viduthalai2.jpg"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+[
+  {
+    "email": "admin@ssc.com",
+    "password": "admin",
+    "role": "admin",
+    "name": "SSC Cinemas",
+    "theaterId": "ssc01"
+  },
+  {
+    "email": "admin@imax.com",
+    "password": "admin",
+    "role": "admin",
+    "name": "IMAX Cinemas",
+    "theaterId": "imax01"
+  },
+  {
+    "email": "admin@pvr.com",
+    "password": "admin",
+    "role": "admin",
+    "name": "PVR Cinemas",
+    "theaterId": "pvr01"
+  }
+]
