@@ -43,7 +43,7 @@ const AdminDashboard = () => {
     } else if (user.theaterId === "imax01") {
        myBookings = history.filter(b => b.screen.includes("Screen 2"));
     } else {
-       myBookings = history; // PVR sees all
+       myBookings = history; 
     }
 
     let totalRev = 0;
